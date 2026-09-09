@@ -2,7 +2,7 @@
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="100"/>
 
-## 🚀 Senior Software Engineer | Gopher who loves GenAI
+## 🚀 Principal Software Engineer | Gopher who loves GenAI
 
 - 🛠️ **Tech Stack:** Golang, Generative AI
 - 📍 **Location:** Ho Chi Minh City (HCMC), Vietnam
